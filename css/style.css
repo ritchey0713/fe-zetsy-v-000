@@ -34,3 +34,7 @@ h2{
   color:rgb(111,127,122);
   font-weight: bold;
 }
+
+img {
+  border:5px;
+}
