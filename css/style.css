@@ -26,5 +26,6 @@ body {
 h1 {
   color: rgb(152,173,166);
   font-size: 5em;
-  border-bottom: 1px solid, 
+  border-bottom: 1px solid #ccc;
 }
+
