@@ -43,6 +43,6 @@ h2{
     border:5px #ccc solid;
 }
 
-hover{
+.hover{
   text-decoration: underline;
 }
